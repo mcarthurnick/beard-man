@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 From my computer.
+=======
+From my computer. 
+>>>>>>> 0610622a4f33b417f9abac1e86aaac039d595d04
 will this be an issue?
 
 Here is my change!!
